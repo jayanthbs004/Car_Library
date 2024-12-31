@@ -87,7 +87,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>devops-integration</finalName>
+		<finalName>Car-Museum</finalName>
 	</build>
 
 </project>
